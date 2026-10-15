@@ -1,0 +1,3 @@
+# Coloca aquí tu fotografía localmente (photo.jpg). No se versiona.
+# python scripts/prep_photo.py assets/photo.jpg
+# python scripts/make_ascii_svg.py

@@ -1,0 +1,27 @@
+{
+  "user": "Enrique002",
+  "name": "Enrique Navarrete-Amado Sánchez",
+  "title": "Desarrollador web",
+  "host": "github.com",
+  "education": "Técnico Superior en DAW",
+  "featured_project": {
+    "name": "LoL Hub",
+    "note": "TFG · app web de campeones e ítems",
+    "url": "https://github.com/Enrique002/LoLHub"
+  },
+  "stack_projects": [
+    "PHP",
+    "Laravel",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Node.js",
+    "MySQL",
+    "HTML",
+    "CSS"
+  ],
+  "stack_also": ["Angular"],
+  "other": ["Soporte informático", "Windows", "Linux", "Redes"],
+  "interests": ["Desarrollo web", "Programación", "Sistemas"],
+  "github": "https://github.com/Enrique002"
+}

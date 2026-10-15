@@ -1,0 +1,50 @@
+name: Update profile art
+
+# Diario a las 06:00 UTC (08:00 en CEST / 07:00 en CET).
+# Para cambiar la hora, edita el cron de cinco campos (minuto hora día mes día-semana).
+# Ejemplos: "30 5 * * *" → 05:30 UTC; "0 18 * * *" → 18:00 UTC.
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  heatmap:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4.2.2
+
+      - name: Setup Python
+        uses: actions/setup-python@v5.3.0
+        with:
+          python-version: "3.12"
+
+      - name: Install heatmap dependencies
+        run: pip install --disable-pip-version-check -r scripts/requirements-heatmap.txt
+
+      - name: Fetch public contributions
+        env:
+          GH_PROFILE_USER: Enrique002
+        run: python scripts/fetch_contributions.py
+
+      - name: Render heatmap SVG
+        run: python scripts/render_heatmap_svg.py
+
+      - name: Commit only when the heatmap changed
+        run: |
+          git add data/contributions.json contrib-heatmap.svg
+          if git diff --cached --quiet; then
+            echo "Sin cambios en el mapa de calor."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: actualizar mapa de contribuciones [skip ci]"
+          git push

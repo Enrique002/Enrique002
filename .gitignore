@@ -1,0 +1,20 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+.DS_Store
+Thumbs.db
+
+# Photograph and local intermediates — never publish
+assets/photo.*
+assets/source-photo.*
+assets/prepped.png
+assets/prepped.jpg
+*.local.png
+*.local.jpg
+*.local.jpeg
+*.local.webp
+.env
+.env.*

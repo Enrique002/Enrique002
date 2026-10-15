@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 384" width="740" height="384" role="img" aria-label="Tarjeta de información de Enrique002">
+<title>enrique@github — neofetch</title>
+<rect width="100%" height="100%" rx="10" fill="#0a0a0a"/>
+<rect x="8" y="8" width="724" height="368" rx="8" fill="#111111" stroke="#1f1f1f" stroke-width="1"/>
+<rect x="8" y="8" width="724" height="42" rx="8" fill="#161616"/>
+<rect x="8" y="40" width="724" height="10" fill="#161616"/>
+<circle cx="28" cy="28" r="5" fill="#ff5f56"/>
+<circle cx="46" cy="28" r="5" fill="#ffbd2e"/>
+<circle cx="64" cy="28" r="5" fill="#27c93f"/>
+<text x="370" y="33" text-anchor="middle" fill="#8b8b8b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">enrique@github — zsh — neofetch</text>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13">
+<text x="22" y="70" fill="#3fb950">$ neofetch --user Enrique002</text>
+<g opacity="0"><text x="22" y="98" xml:space="preserve"><tspan fill="#3fb950">Usuario  </tspan><tspan fill="#5a5a5a"> : </tspan><tspan fill="#d4d4d4">Enrique002</tspan></text><animate attributeName="opacity" from="0" to="1" begin="0.18s" dur="0.18s" fill="freeze"/></g>
+<g opacity="0"><text x="22" y="120" xml:space="preserve"><tspan fill="#3fb950">Nombre   </tspan><tspan fill="#5a5a5a"> : </tspan><tspan fill="#d4d4d4">Enrique Navarrete-Amado Sánchez</tspan></text><animate attributeName="opacity" from="0" to="1" begin="0.27s" dur="0.18s" fill="freeze"/></g>
+<g opacity="0"><text x="22" y="142" xml:space="preserve"><tspan fill="#3fb950">Perfil   </tspan><tspan fill="#5a5a5a"> : </tspan><tspan fill="#d4d4d4">Desarrollador web</tspan></text><animate attributeName="opacity" from="0" to="1" begin="0.36s" dur="0.18s" fill="freeze"/></g>
+<g opacity="0"><text x="22" y="164" xml:space="preserve"><tspan fill="#3fb950">Host     </tspan><tspan fill="#5a5a5a"> : </tspan><tspan fill="#d4d4d4">github.com</tspan></text><animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.18s" fill="freeze"/></g>
+<g opacity="0"><text x="22" y="186" xml:space="preserve"><tspan fill="#3fb950">Formación</tspan><tspan fill="#5a5a5a"> : </tspan><tspan fill="#d4d4d4">Técnico Superior en DAW</tspan></text><animate attributeName="opacity" from="0" to="1" begin="0.54s" dur="0.18s" fill="freeze"/></g>
+<g opacity="0"><text x="22" y="208" xml:space="preserve"><tspan fill="#3fb950">Proyecto </tspan><tspan fill="#5a5a5a"> : </tspan><tspan fill="#d4d4d4">LoL Hub  ·  TFG · app web de campeones e ítems</tspan></text><animate attributeName="opacity" from="0" to="1" begin="0.63s" dur="0.18s" fill="freeze"/></g>
+<g opacity="0"><text x="22" y="230" xml:space="preserve"><tspan fill="#3fb950">Stack    </tspan><tspan fill="#5a5a5a"> : </tspan><tspan fill="#d4d4d4">PHP, Laravel, JavaScript, TypeScript, React, Node.js, MySQL, HTML, CSS</tspan></text><animate attributeName="opacity" from="0" to="1" begin="0.72s" dur="0.18s" fill="freeze"/></g>
+<g opacity="0"><text x="22" y="252" xml:space="preserve"><tspan fill="#3fb950">También  </tspan><tspan fill="#5a5a5a"> : </tspan><tspan fill="#d4d4d4">Angular (no aparece aún en repos públicos)</tspan></text><animate attributeName="opacity" from="0" to="1" begin="0.81s" dur="0.18s" fill="freeze"/></g>
+<g opacity="0"><text x="22" y="274" xml:space="preserve"><tspan fill="#3fb950">Otros    </tspan><tspan fill="#5a5a5a"> : </tspan><tspan fill="#d4d4d4">Soporte informático, Windows, Linux, Redes</tspan></text><animate attributeName="opacity" from="0" to="1" begin="0.90s" dur="0.18s" fill="freeze"/></g>
+<g opacity="0"><text x="22" y="296" xml:space="preserve"><tspan fill="#3fb950">Intereses</tspan><tspan fill="#5a5a5a"> : </tspan><tspan fill="#d4d4d4">Desarrollo web, Programación, Sistemas</tspan></text><animate attributeName="opacity" from="0" to="1" begin="0.99s" dur="0.18s" fill="freeze"/></g>
+<g opacity="0"><text x="22" y="318" xml:space="preserve"><tspan fill="#3fb950">GitHub   </tspan><tspan fill="#5a5a5a"> : </tspan><tspan fill="#d4d4d4">github.com/Enrique002</tspan></text><animate attributeName="opacity" from="0" to="1" begin="1.08s" dur="0.18s" fill="freeze"/></g>
+<text x="22" y="348" fill="#3fb950" opacity="0">█<animate attributeName="opacity" values="0;1;0" begin="1.17s" dur="1.1s" repeatCount="2" fill="freeze"/></text>
+</g></svg>
