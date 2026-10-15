@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 810 242" width="810" height="242" role="img" aria-label="Mapa de contribuciones de GitHub">
-<title>Contribuciones públicas de Enrique002</title>
+<title>Contribuciones de Enrique002</title>
 <rect width="100%" height="100%" rx="10" fill="#0a0a0a"/>
 <rect x="8" y="8" width="794" height="226" rx="8" fill="#111111" stroke="#1f1f1f"/>
 <rect x="8" y="8" width="794" height="36" rx="8" fill="#161616"/>
 <rect x="8" y="34" width="794" height="10" fill="#161616"/>
 <text x="22" y="32" fill="#8b8b8b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">enrique@github ~ $ ./contributions.sh</text>
-<text x="22" y="62" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13">626 contribuciones públicas  ·  296 días activos  ·  racha 1</text>
+<text x="22" y="62" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13">626 contribuciones  ·  296 días activos  ·  racha 4</text>
 <text x="44" y="84" fill="#8b8b8b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">oct</text>
 <text x="86" y="84" fill="#8b8b8b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">nov</text>
 <text x="156" y="84" fill="#8b8b8b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10">dic</text>
