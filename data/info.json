@@ -15,10 +15,13 @@
     "JavaScript",
     "TypeScript",
     "React",
+    "Rust",
+    "Tauri",
     "Node.js",
     "MySQL",
     "HTML",
-    "CSS"
+    "CSS",
+    "Tailwind CSS"
   ],
   "stack_also": ["Angular"],
   "other": ["Soporte informático", "Windows", "Linux", "Redes"],
