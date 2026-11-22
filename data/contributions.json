@@ -1,14 +1,14 @@
 {
   "username": "Enrique002",
   "source": "https://github.com/users/Enrique002/contributions",
-  "generated_at": "2026-11-21T14:19:50Z",
+  "generated_at": "2026-11-22T14:11:21Z",
   "range": {
-    "start": "2025-11-16",
-    "end": "2026-11-21"
+    "start": "2025-11-23",
+    "end": "2026-11-22"
   },
-  "total_contributions": 671,
+  "total_contributions": 660,
   "totals_note": null,
-  "active_days": 293,
+  "active_days": 288,
   "current_streak": {
     "length": 0,
     "start": null,
@@ -25,41 +25,6 @@
     "level": 4
   },
   "days": [
-    {
-      "date": "2025-11-16",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-11-17",
-      "count": 2,
-      "level": 1
-    },
-    {
-      "date": "2025-11-18",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-11-19",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-11-20",
-      "count": 6,
-      "level": 1
-    },
-    {
-      "date": "2025-11-21",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-22",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-11-23",
       "count": 2,
@@ -1877,6 +1842,11 @@
     },
     {
       "date": "2026-11-21",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-11-22",
       "count": 0,
       "level": 0
     }
